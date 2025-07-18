@@ -415,13 +415,6 @@ CMD ["npm", "run", "start:prod"]
 - 🔄 **CRUD Operations**: Update and delete functionality for website ideas
 - 🔄 **Multi-language Support**: Internationalization features
 
-### Version 2.1.0 (Planned)
-
-- 🔄 **Database Optimizations**: Pagination and advanced querying
-- 🔄 **Testing Strategy**: Comprehensive test coverage
-- 🔄 **Caching & Rate Limiting**: Performance and security enhancements
-- 🔄 **Enhanced Security**: Advanced security measures
-- 🔄 **Docker Support**: Containerized deployment options
 
 ## 🤝 Contributing
 
