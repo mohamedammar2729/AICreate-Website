@@ -24,28 +24,28 @@ A modern full-stack web application that leverages artificial intelligence to ge
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                     AI Website Studio                      │
+│                     AI Website Studio                       │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  ┌─────────────────┐              ┌─────────────────────┐    │
-│  │    Frontend     │◄────────────►│     Backend         │    │
-│  │                 │              │                     │    │
-│  │ • Next.js 15.4  │   REST API   │ • NestJS 11.0       │    │
-│  │ • React 19.1    │              │ • TypeScript        │    │
-│  │ • TypeScript    │              │ • MongoDB           │    │
-│  │ • Tailwind CSS  │              │ • Mongoose          │    │
-│  │ • Shadcn/UI     │              │ • AI Integration    │    │
-│  │ • React Query   │              │ • Validation        │    │
-│  └─────────────────┘              └─────────────────────┘    │
-│           │                                 │                │
-│           │                                 │                │
-│  ┌─────────────────┐              ┌─────────────────────┐    │
-│  │   User Browser  │              │    Database         │    │
-│  │                 │              │                     │    │
-│  │ • Responsive UI │              │ • MongoDB Atlas     │    │
-│  │ • PWA Support   │              │ • Cloud Storage     │    │
+│  ┌─────────────────┐              ┌─────────────────────┐   │
+│  │    Frontend     │◄────────────►│     Backend         │   │
+│  │                 │              │                     │   │
+│  │ • Next.js 15.4  │   REST API   │ • NestJS 11.0       │   │
+│  │ • React 19.1    │              │ • TypeScript        │   │
+│  │ • TypeScript    │              │ • MongoDB           │   │
+│  │ • Tailwind CSS  │              │ • Mongoose          │   │
+│  │ • Shadcn/UI     │              │ • AI Integration    │   │
+│  │ • React Query   │              │ • Validation        │   │
+│  └─────────────────┘              └─────────────────────┘   │
+│           │                                 │               │
+│           │                                 │               │
+│  ┌─────────────────┐              ┌─────────────────────┐   │
+│  │   User Browser  │              │    Database         │   │
+│  │                 │              │                     │   │
+│  │ • Responsive UI │              │ • MongoDB Atlas     │   │
+│  │ • PWA Support   │              │ • Cloud Storage     │   │
 │  │ • Fast Loading  │              │ • Auto Scaling     │    │
-│  └─────────────────┘              └─────────────────────┘    │
+│  └─────────────────┘              └─────────────────────┘   │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
