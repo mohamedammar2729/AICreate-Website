@@ -1,4 +1,4 @@
-# AI Website Studio 🚀
+# AI Website Creation 🚀
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.4.1-black)](https://nextjs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-11.0-red)](https://nestjs.com/)
