@@ -1,5 +1,5 @@
-@import "tailwindcss";
-@import "tw-animate-css";
+@import 'tailwindcss';
+@import 'tw-animate-css';
 
 @custom-variant dark (&:is(.dark *));
 
@@ -118,5 +118,29 @@
   }
   body {
     @apply bg-background text-foreground;
+  }
+
+  /* Fix text clipping issues for gradient text and descenders */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    line-height: 1.2;
+    padding-bottom: 0.125rem;
+  }
+
+  /* Ensure proper line height for text with descenders */
+  .bg-clip-text {
+    line-height: 1.15;
+    padding-bottom: 0.25rem;
+    display: inline-block;
+  }
+
+  /* Fix small text rendering */
+  .text-xs,
+  .text-sm {
+    line-height: 1.5;
   }
 }
